@@ -1,7 +1,5 @@
 console.log("Portfolio loaded successfully!");
 
-const user = {
-    name: "Mayuresh"
-};
+const user = null;
 
 console.log(user.name.toUpperCase());
